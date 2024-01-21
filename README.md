@@ -41,7 +41,6 @@ artusi
 ## Instructions and Script
 ### **Navigation and Listing:**
 ```bash
-Copy code
 $ pwd
 /home/ccuser/workspace/artusi
 
@@ -55,7 +54,6 @@ drwxr-xr-x 3 ccuser ccuser 18 Mar  5  2016 sculpting
 ```
 ### **Copying Files:**
 ```bash
-Copy code
 $ cd drawing/pencils
 $ ls
 color.txt  graphite.txt
@@ -64,7 +62,6 @@ $ cp color.txt graphite.txt
 ```
 ### **Moving and Viewing Files:**
 ```bash
-Copy code
 $ cd ../charcoal
 $ ls
 compressed.txt  vine.txt
@@ -84,7 +81,6 @@ Source: Wiki
 ```
 ### **Directory Navigation:**
 ```bash
-Copy code
 $ pwd
 /home/ccuser/workspace/artusi/drawing/charcoal
 
@@ -94,7 +90,6 @@ $ pwd
 ```
 ### **Copying Files Using Wildcards:**
 ```bash
-Copy code
 $ cd brushes
 $ cp f*.txt ../paint/
 $ ls ../paint/
@@ -102,13 +97,11 @@ acrylic  fan.txt  flat.txt  watercolor
 ```
 ### **Error Handling:**
 ```bash
-Copy code
 $ cd ../../sculpting
 bash: cd: ../../sculpting: No such file or directory
 ```
 ### **Moving and Removing Files:**
 ```bash
-Copy code
 $ cd ../ceramic
 $ ls -a
 .  ..  airdry.txt  earthenware.txt  stoneware.txt
