@@ -1,5 +1,5 @@
 # Artusi Command Line Project
-Welcome to the Artusi Command Line Project! In this project, we'll use various commands to manipulate the files and directories of Artusi, an arts supply store. Let's walk through the commands and scripts you've provided:
+Welcome to the Artusi Command Line Project! In this project, we'll use various commands to manipulate the files and directories of Artusi, an arts supply store. 
 
 ## Project Structure
 The current structure of the Artusi project is as follows:
